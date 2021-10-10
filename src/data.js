@@ -1,35 +1,33 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    title: "Fitness Tracker",
+    description: "A great way for someone to track their daily workouts!",
+    image: "https://i.ibb.co/XS72K1Q/Fitness-Tracker-pic.png",
+    link: "https://github.com/Danfirech/Fitness--Tracker",
   },
+
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Brewing Crypto",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Grab a beer at a local pub and talk about your favorite crypto with fellow coin lovers!",
+    image: "https://i.ibb.co/2S3NRx3/Brewing-Crypto.png",
+    link: "file:///Users/danielpossehl/Desktop/Projects/Project-01/index.html",
   },
+
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Ultimate System",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Have a favorite game you? Want to play with others? Try out Ultimate Systems!",
+    image: "https://i.ibb.co/t4px8kb/Ultimate-Systems.png",
+    link: "http://blooming-stream-34219.herokuapp.com/",
   },
+
   {
-    title: "Epic Todo App",
+    title: "Employee Tracker",
     subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    description: "Teack and add your emoloyees!",
+    image: "https://i.ibb.co/YysTQ5d/Employees.png",
+    link: "https://github.com/Danfirech/SQL-Employee-Tracker",
   },
 ];
 
@@ -48,13 +46,4 @@ export const testimonials = [
     name: "Ruben Alvarez",
     company: "Dooble.io",
   },
-];
-
-export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
 ];
